@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<employee>
+		<fname>John</fname>
+		<mname>B</mname>
+		<surname>Smith</surname>
+		<ssn>123456789</ssn>
+		<bdate>1955-01-09</bdate>
+		<address>731 Fondren Houstan Tx</address>
+		<sex>M</sex>
+		<salary>30000</salary>
+	</employee>
+	<employee>
+		<fname>Franklin</fname>
+		<mname>T</mname>
+		<surname>Wong</surname>
+		<ssn>3334455333</ssn>
+		<bdate>1945-06-09</bdate>
+		<address>638 Voss Houstan Tx</address>
+		<sex>M</sex>
+		<salary>40000</salary>
+	</employee>
+	<employee>
+		<fname>Joyce</fname>
+		<mname>A</mname>
+		<surname>English</surname>
+		<ssn>4534534553</ssn>
+		<bdate>1962-01-19</bdate>
+		<address>731 Fondren Houstan Tx</address>
+		<sex>F</sex>
+		<salary>50000</salary>
+	</employee>
+	<employee>
+		<fname>Joyce</fname>
+		<mname>A</mname>
+		<surname>English</surname>
+		<ssn>4534534553</ssn>
+		<bdate>1962-01-19</bdate>
+		<address>731 Fondren Houstan Tx</address>
+		<sex>F</sex>
+		<salary>50000</salary>
+	</employee>
+	<employee>
+		<fname>John</fname>
+		<mname>B</mname>
+		<surname>Smith</surname>
+		<ssn>22</ssn>
+		<bdate>1955-01-09</bdate>
+		<address>731 Fondren Houstan Tx</address>
+		<sex>M</sex>
+		<salary>30000</salary>
+	</employee>
+	<employee>
+		<fname>John</fname>
+		<mname>B</mname>
+		<surname>Smith</surname>
+		<ssn>22</ssn>
+		<bdate>1955-01-09</bdate>
+		<address>731 Fondren Houstan Tx</address>
+		<sex>M</sex>
+		<salary>30000</salary>
+	</employee>
+	<employee>
+		<fname>John</fname>
+		<mname>B</mname>
+		<surname>Smith</surname>
+		<ssn>22</ssn>
+		<bdate>1955-01-09</bdate>
+		<address>731 Fondren Houstan Tx</address>
+		<sex>M</sex>
+		<salary>30000</salary>
+	</employee>
+</list>
